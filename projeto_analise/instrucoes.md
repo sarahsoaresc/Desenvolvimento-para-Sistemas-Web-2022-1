@@ -1,3 +1,5 @@
+# Replique esse documento e realize a atividade:
+
 # Documento de Projeto de Software
 
 Desenvolvimento de um sistema << >> 
@@ -68,7 +70,7 @@ Descreva os requisitos não funcionais do sistema, ou seja, todas as necessidade
 
 Insira nesta seção as possíveis telas do sistema ou o esboço do sistema, como preferir.
 
-É importante descrever um pouco o fluxo de cada tela.
+`É importante descrever um pouco o fluxo de cada tela.`
 
 #### Exemplo 1 
 
@@ -79,7 +81,7 @@ Insira nesta seção as possíveis telas do sistema ou o esboço do sistema, com
 #### Exemplo 2 
 
 <p align="center">
-  <img src="imagem2.jpg" width="800" alt="">
+  <img src="imagem2.png" width="800" alt="">
 </p>
 
 #### Exemplo 3 
