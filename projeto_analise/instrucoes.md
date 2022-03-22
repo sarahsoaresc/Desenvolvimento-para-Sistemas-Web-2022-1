@@ -73,18 +73,18 @@ Insira nesta seção as possíveis telas do sistema ou o esboço do sistema, com
 #### Exemplo 1 
 
 <p align="center">
-  <img src="imagem.png" width="200" alt="">
+  <img src="imagem.png" width="800" alt="">
 </p>
 
 #### Exemplo 2 
 
 <p align="center">
-  <img src="imagem2.jpg" width="200" alt="">
+  <img src="imagem2.jpg" width="800" alt="">
 </p>
 
 #### Exemplo 3 
 
 <p align="center">
-  <img src="imagem3.jpg" width="200" alt="">
+  <img src="imagem3.jpg" width="800" alt="">
 </p>
 
