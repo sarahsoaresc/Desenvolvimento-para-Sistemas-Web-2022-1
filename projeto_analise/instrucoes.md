@@ -18,8 +18,6 @@ Desenvolvimento de um sistema << >>
 >
 >Premissas e Restrições
 >
->Visão Geral do Produto
->
 >Requisitos Funcionais e Requisitos Não Funcionais
 >
 >Layout/Prototipagem 
