@@ -1,0 +1,51 @@
+    /*exemplo de css*/
+body{
+    font-family: sans-serif;
+    margin-top: 130px;
+}
+
+nav{
+    /*declarando fonte*/
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: bold;
+  
+}
+p{
+    font-size: 16px;
+    color:dimgray;
+}
+
+/*propriedades do menu*/
+#menu{
+    position:fixed;
+    top:0;
+    left: 0;
+    right: 0;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background: white;
+}
+#menu ul {
+    padding:0;
+    padding-top: 46px;
+    margin:0;
+    list-style:none;
+    text-align:center;
+}
+#menu li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+}
+#menu a {
+    text-decoration: none;
+    color: #000;
+}
+
+/*propriedades da imagem do cabeçalho*/
+#menu img{
+    width: 18%;
+    height: 20%;
+    float: left;
+    margin-top: 16px;
+    margin-left: 23px;
+}
